@@ -1,3 +1,4 @@
 using './main.bicep'
-param storageName = 'demoaz400m061a'
+param storageName = 'demoaz400SMG'
 param location = 'eastus'
+
